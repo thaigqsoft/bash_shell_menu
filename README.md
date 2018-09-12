@@ -1,8 +1,4 @@
-# 
-install in ubuntu
-sudo apt install dialog
-#and run
-bash menu.bash
+
 
 # bash_shell_menu
 
