@@ -29,11 +29,11 @@ case $CHOICE in
             read -p "Press enter to continue"
             /bin/bash menu.bash
            ;;
-        2)  echo "1"
+        2)  echo "2"
             read -p "Press enter to continue"
             /bin/bash menu.bash
            ;;
-        3)  echo "1"
+        3)  echo "3"
             read -p "Press enter to continue"
             /bin/bash menu.bash
            ;;
