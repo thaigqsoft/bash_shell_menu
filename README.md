@@ -26,5 +26,5 @@ or
  
 ## Authors
 
-* **Tanakorn Piamsin  [Facebook](https://www.facebook.com/ynarak)
+* Tanakorn Piamsin  [Facebook](https://www.facebook.com/ynarak)
  
